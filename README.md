@@ -1,6 +1,7 @@
 # Arduino-Fish-project
 
-Here's a tutorial for a dancing-fish project I made.
+This is the repository of files on my Arduino Magikarp project. 
+Above you'll find my code, and a logbook I wrote through the duration of this project.
 
 Required Items:
 
@@ -12,4 +13,4 @@ Required Items:
 - 9x male to male wires
 - 1x breadboard
 
-I'll upload a pdf soon with an in-depth tutorial with pictures.
+For full in-depth instructions, visit; 
