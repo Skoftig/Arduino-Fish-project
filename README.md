@@ -14,3 +14,4 @@ Required Items:
 - 1x breadboard
 
 For full in-depth instructions, visit; 
+https://www.instructables.com/id/Arduino-Dancing-Magikarp-Project/
